@@ -1,0 +1,7 @@
+{
+  "name": "meal tracker",
+  "description": "Track your daily nutritional intake simply by snapping a photo of your meals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
